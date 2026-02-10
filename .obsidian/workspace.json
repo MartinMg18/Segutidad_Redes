@@ -65,8 +65,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "654af6ce79380258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - General Skills/10-Plumbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-Plumbing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,12 +243,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "a4d95c366f0ad5ab",
+  "active": "654af6ce79380258",
   "lastOpenFiles": [
-    "README.md",
+    "01 - General Skills/9-what's a net cat.md",
+    "01 - General Skills/10-Plumbing.md",
     "plantilla.md",
+    "01 - General Skills/8-Warmed Up.md",
+    "01 - General Skills/7-Obedient Cat.md",
+    "01 - General Skills/6-Nice netcat.md",
+    "01 - General Skills/5-Glitch cat.md",
+    "01 - General Skills/4-First grep.md",
+    "01 - General Skills/3-Bases.md",
+    "01 - General Skills/2-2Warm.md",
+    "Untitled.md",
+    "01 - General Skills/1-Lets Warm Up.md",
+    "Welcome.md",
     "Untitled",
-    "01 - General Skills",
-    "Welcome.md"
+    "README.md",
+    "01 - General Skills"
   ]
 }
