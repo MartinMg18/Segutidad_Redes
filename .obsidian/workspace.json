@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial/Web/8-SSTI2.md",
+                "file": "plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-SSTI2"
+              "title": "plantilla"
+            }
+          },
+          {
+            "id": "332e87304bf17fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto 2/rsa-pop-quiz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rsa-pop-quiz"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,8 +226,25 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a4d95c366f0ad5ab",
+  "active": "332e87304bf17fe6",
   "lastOpenFiles": [
+    "plantilla.md",
+    "Crypto 2/rsa-pop-quiz.md",
+    "Crypto parte3/4-b00tl3gRSA3.md",
+    "Crypto 2",
+    "Crypto parte3/3-b00tl3gRSA2.md",
+    "Crypto parte3/1-Mini RSA.md",
+    "Crypto parte3/2-Mind your Ps and Qs.md",
+    "README.md",
+    "Crypto parte4/ReadMyCert.md",
+    "Crypto parte3",
+    "Crypto parte4/HideToSee.md",
+    "Crypto parte4/flags.md",
+    "Crypto parte4/basic-mod1.md",
+    "Crypto parte4/Pixelated.md",
+    "Primer Examen Parcial/Web/8-SSTI2.md",
+    "Crypto parte4",
+    "Primer Examen Parcial/Web/Crypto parte4",
     "Primer Examen Parcial/Web/7-SQL Direct.md",
     "Primer Examen Parcial/Web/5-findme.md",
     "Primer Examen Parcial/Web/6-Java Code Analysis.md",
@@ -221,10 +252,8 @@
     "Primer Examen Parcial/Web/3-head-dump.md",
     "Primer Examen Parcial/Web/2-Cookie Monster Secret Recipe.md",
     "Primer Examen Parcial/Web/1-Bookmarklet.md",
-    "Primer Examen Parcial/Web/8-SSTI2.md",
     "Primer Examen Parcial/Web/7-",
     "Primer Examen Parcial/Web/5-",
-    "plantilla.md",
     "Forensic 2/3-c0rrupt.md",
     "Primer Examen Parcial/Web",
     "Primer Examen Parcial/General Skills",
@@ -234,21 +263,6 @@
     "Primer Examen Parcial/General Skills/8-Python Wrangling.md",
     "Primer Examen Parcial/General Skills/7-flag_shop.md",
     "Primer Examen Parcial/General Skills/6-dont-you-love-banners.md",
-    "Primer Examen Parcial/General Skills/5-Rust fixme 3.md",
-    "Primer Examen Parcial/General Skills/4-Rust fixme 2.md",
-    "Primer Examen Parcial/General Skills/3-Rust fixme 1.md",
-    "Primer Examen Parcial/General Skills/2-HashingJobApp.md",
-    "Primer Examen Parcial/General Skills/1- FANTASY CTF.md",
-    "Forensic 2/2-WhitePages.md",
-    "Primer Examen Parcial",
-    "Forensic 2/5-shark on wire 2.md",
-    "Forensic 2/4-like1000.md",
-    "Forensic 2/1-m00nwalk.md",
-    "README.md",
-    "web 4/4-Most Cookies.md",
-    "Forensic 2",
-    "web 4",
-    "Tarea 2 - Web/Sin nombre",
-    "Tarea 2 - Web"
+    "Primer Examen Parcial"
   ]
 }
