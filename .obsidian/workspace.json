@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto 2/rsa-pop-quiz.md",
+                "file": "Crypto Parte 1/8- interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
+              "title": "8- interencdec"
             }
           }
         ],
@@ -228,8 +228,18 @@
   },
   "active": "332e87304bf17fe6",
   "lastOpenFiles": [
+    "7_Code_Programa1_E5_E26.java",
+    "Crypto Parte 1/7- waves over lambda.md",
+    "Crypto Parte 1/6- Tapping.md",
+    "Crypto Parte 1/5- la cifra de.md",
+    "Crypto Parte 1/4- Easy 1.md",
+    "Crypto Parte 1/3- Caesar.md",
+    "Crypto Parte 1/2- 13.md",
+    "Crypto Parte 1/1- The numbers.md",
+    "Crypto Parte 1/8- interencdec.md",
     "plantilla.md",
     "Crypto 2/rsa-pop-quiz.md",
+    "Crypto Parte 1",
     "Crypto parte3/4-b00tl3gRSA3.md",
     "Crypto 2",
     "Crypto parte3/3-b00tl3gRSA2.md",
@@ -249,20 +259,10 @@
     "Primer Examen Parcial/Web/5-findme.md",
     "Primer Examen Parcial/Web/6-Java Code Analysis.md",
     "Primer Examen Parcial/Web/4-SSTI1.md",
-    "Primer Examen Parcial/Web/3-head-dump.md",
-    "Primer Examen Parcial/Web/2-Cookie Monster Secret Recipe.md",
-    "Primer Examen Parcial/Web/1-Bookmarklet.md",
     "Primer Examen Parcial/Web/7-",
     "Primer Examen Parcial/Web/5-",
-    "Forensic 2/3-c0rrupt.md",
     "Primer Examen Parcial/Web",
     "Primer Examen Parcial/General Skills",
-    "Primer Examen Parcial/General Skills/10-Specialer.md",
-    "Forensic 2/Sin nombre",
-    "Primer Examen Parcial/General Skills/9-SansAlpha.md",
-    "Primer Examen Parcial/General Skills/8-Python Wrangling.md",
-    "Primer Examen Parcial/General Skills/7-flag_shop.md",
-    "Primer Examen Parcial/General Skills/6-dont-you-love-banners.md",
-    "Primer Examen Parcial"
+    "Forensic 2/Sin nombre"
   ]
 }
